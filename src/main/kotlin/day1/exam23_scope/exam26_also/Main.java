@@ -1,0 +1,11 @@
+package day1.exam23_scope.exam26_also;
+
+public class Main {
+    public static void main(String[] args) {
+        String message = "Hello";
+
+        System.out.println("Before: " + message);
+        message = message.toUpperCase();
+        System.out.println("After: " + message);
+    }
+}

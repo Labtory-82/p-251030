@@ -1,4 +1,4 @@
-package day1.exam2
+package day1.exam3
 
 fun main() {
     val number: Int = 10
