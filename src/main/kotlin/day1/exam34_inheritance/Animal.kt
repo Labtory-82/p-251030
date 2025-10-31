@@ -10,11 +10,11 @@ interface Pet {
 
 class Dog : Animal(), Pet {
     override fun eat() {
-        TODO("Not yet implemented")
+        // tTODO("Not yet implemented")
     }
 
     override fun play() {
-        TODO("Not yet implemented")
+        // tTODO("Not yet implemented")
     }
 
 }
